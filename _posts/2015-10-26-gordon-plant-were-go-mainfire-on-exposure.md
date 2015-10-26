@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://gordonplant.exposure.co/were-go-mainfire'
 title: "Gordon Plant - \"We're go: Mainfire\" on Exposure"
-datePublished: '2015-10-26T15:18:49.425Z'
-dateModified: '2015-10-26T15:05:53.339Z'
+datePublished: '2015-10-26T15:36:41.739Z'
+dateModified: '2015-10-26T15:18:49.425Z'
 sourcePath: _posts/2015-10-26-gordon-plant-were-go-mainfire-on-exposure.md
 published: true
 inFeed: true
