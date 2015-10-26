@@ -1,0 +1,23 @@
+name: We are go
+favicon: null
+layout_spectrum: 0.5860195362474769
+typography_spectrum: 0.02849485957995057
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9607513975352049
+  lightness: 0.05329918768256903
+  saturation: 0.5723024664912373
+  rhythmicContrast: 0.10642043966799974
+purpose: []
