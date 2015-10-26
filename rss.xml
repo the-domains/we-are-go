@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[We are go]]></title>
         <description><![CDATA[We are go]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/we-are-go/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 15:06:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 26 Oct 2015 15:19:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/we-are-go/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Gordon Plant - "We're go: Mainfire" on Exposure]]></title>
             <description><![CDATA[<article><h1>Gordon Plant - "We're go: Mainfire" on Exposure</h1><p>It took Five F1 Engines to get a Saturn 5 off the Pad</p><img src="https://exposure.imgix.net/production/posts/48748/cover-photo/cover-1404074156.jpg?fit=crop&w=500&h=500&q=60&fm=pjpg&auto=format"></article>]]></description>
             <link>https://gordonplant.exposure.co/were-go-mainfire</link>
             <guid isPermaLink="false">6ebbbfad-bbb6-4230-ae63-c24a7ab261f6</guid>
-            <pubDate>Mon, 26 Oct 2015 15:05:53 GMT</pubDate>
+            <pubDate>Mon, 26 Oct 2015 15:18:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
